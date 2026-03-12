@@ -1,6 +1,6 @@
 <img width="736" height="414" alt="videoframe_15013" src="https://github.com/user-attachments/assets/a29ece32-0a18-4c5e-9a36-c44c4f6e64d1" />
 
-**Sales Target Analysis **
+**Sales Target Analysis**
 
 An end-to-end Data Engineering and Analytics project that transforms raw retail data into a structured relational database for deep business intelligence and sales performance tracking.
 
